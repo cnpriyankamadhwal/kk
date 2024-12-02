@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header-container {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container .img {
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 0;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.about-container {
+    margin: 30px 50px 50px 50px;
+    text-align: center;
+}
+
+.about-content {
+    padding: 10px 0;
+}
+
+strong {
+    color: black;
+}
+
+.about-content p {
+    padding: 4px 0;
+    font-size: 16px;
+    color: royalblue;
+    font-family: math;
+}
+
+.about-singer {
+    padding: 20px 0;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: azure;
+    padding: 20px;
+    font-size: 20px;
+    font-family: math;
+}
